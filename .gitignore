@@ -50,3 +50,58 @@ Power BI course learning/\[039]\[PRO]_CHA_02_SEC_07_Cards_002_Hourly_Salary.pbix
 Power BI course learning/\[052]\[PRO]_CHA_02_SEC_09_Button_And_Bookmark_005_Bookmark_Navigation.pbix
 Power BI course learning/\[051]\[PRO]_CHA_02_SEC_09_Button_And_Bookmark_004_Clear_All_Slicer_Button.pbix
 Power BI course learning/\[050]\[PRO]_CHA_02_SEC_09_Button_And_Bookmark_003_Page_Navigation_Button.pbix
+PowerBI Project 2/star_schema_files/company_dim.csv
+PowerBI Project 2/star_schema_files/job_postings_fact.csv
+PowerBI Project 2/star_schema_files/skills_dim.csv
+PowerBI Project 2/star_schema_files/skills_job_dim.csv
+Power BI course learning/\[090]\[LEC]_CHA_03_SEC_03_Project_2_Data_Import_003_Data_Import.pbix
+Power BI course learning/\[089]\[PRO]_CHA_04_SEC_03_Parameters_003_Targeted_Salary_Filtered_Measure.pbix
+Power BI course learning/\[088]\[PRO]_CHA_04_SEC_03_Parameters_002_Salary_Target_Numeric_Parameter.pbix
+Power BI course learning/\[087]\[PRO]_CHA_04_SEC_03_Parameters_001_Salary_Statistic_Field_Parameter.pbix
+Power BI course learning/\[086]\[PRO]_CHA_04_SEC_02_Explicit_Measure_004_Calculate_Jobs_WFH_And_Degree.pbix
+Power BI course learning/\[085]\[PRO]_CHA_04_SEC_02_Explicit_Measure_003_Categorize_Salaries_With_IF.pbix
+Power BI course learning/\[084]\[PRO]_CHA_04_SEC_02_Explicit_Measure_002_Analyze_Yearly_Salary_Statistics.pbix
+Power BI course learning/\[083]\[PRO]_CHA_04_SEC_02_Explicit_Measure_001_Organize_Measure_And_Create_Job_Count.pbix
+Power BI course learning/\[082]\[LEC]_CHA_04_SEC_02_Explicit_Measure_001_Explicit_Measure.pbix
+Power BI course learning/\[001]\[LEC]_CHA_01_SEC_01_Grand_Tour_001_Introduction_to_Power_BI.pbix
+Power BI course learning/\[002]\[PRO]_CHA_01_SEC_01_Grand_Tour__BI_Desktop_001_Import_And_Save_Data.pbix
+Power BI course learning/\[003]\[PRO]_CHA_01_SEC_01_Grand_Tour__BI_Desktop_002_Format_Salary_As_Currency.pbix
+Power BI course learning/\[004]\[PRO]_CHA_01_SEC_01_Grand_Tour__BI_Desktop_003_Total_Employee_By_Department.pbix
+Power BI course learning/\[005]\[PRO]_CHA_01_SEC_01_Grand_Tour__BI_Desktop_004_Create_Key_Matrix_Card.pbix
+Power BI course learning/\[006]\[PRO]_CHA_01_SEC_01_Grand_Tour__BI_Desktop_005_New_Employee_By_Month.pbix
+Power BI course learning/\[007]\[PRO]_CHA_01_SEC_01_Grand_Tour__BI_Desktop_006_Filter_By_Active_Status.pbix
+Power BI course learning/\[008]\[PRO]_CHA_01_SEC_01_Grand_Tour__BI_Desktop_007_Rename_And_Add_Page.pbix
+Power BI course learning/\[009]\[LEC]_CHA_01_SEC_02_Dashboard build_001_Dashboard_Build.pbix
+Power BI course learning/\[010]\[PRO]_CHA_01_SEC_02_Dashboard_Build_001_Unique_Department_Card.pbix
+Power BI course learning/\[012]\[PRO]_CHA_01_SEC_02_Dashboard build_003_Canvas_And_Visual_Arrangement.pbix
+Power BI course learning/\[011]\[PRO]_CHA_01_SEC_02_Dashboard_Build_002_Format_Empolyee_Dashboard.pbix
+Power BI course learning/\[013]\[PRO]_CHA_01_SEC_02_Dashboard build_004_Apply_Dark_Mode_Theme.pbix
+Power BI course learning/\[053]\[LEC]_CHA_03_SEC_01_Power_Query_Intro_001_Power_Query_Intro.pbix
+Power BI course learning/\[054]\[PRO]_CHA_03_SEC_01_Power_Query_Intro_001_Load_And_Visualize_Job.pbix
+Power BI course learning/\[055]\[PRO]_CHA_03_SEC_01_Power_Query_Intro_002_World_Population_Map.pbix
+Power BI course learning/\[057]\[LEC]_CHA_03_SEC_02_Power_Query_Editor_001_Power_Query_Editor.pbix
+Power BI course learning/\[056]\[PRO]_CHA_03_SEC_01_Power_Query_Intro_003_Connect_And_Visualize_SQL_Data.pbix
+Power BI course learning/\[058]\[PRO]_CHA_03_SEC_02_Power_Query_Editor_001_Load_Monthly_Files.pbix
+Power BI course learning/\[059]\[PRO]_CHA_03_SEC_02_Power_Query_Editor_002_Dataset_Cleanup_And_Formatting.pbix
+Power BI course learning/\[060]\[PRO]_CHA_03_SEC_02_Power_Query_Editor_003_Job_Posting_By_Day.pbix
+Power BI course learning/\[062]\[LEC]_CHA_03_SEC_03_Advanced_Transformation_001_Advanced_Transformation.pbix
+Power BI course learning/\[063]\[PRO]_CHA_03_SEC_03_Advanced_Transformation_001_Create_Index_Column.pbix
+Power BI course learning/\[061]\[PRO]_CHA_03_SEC_02_Power_Query_Editor_004_Extract_And_Visualize_Skill.pbix
+Power BI course learning/\[064]\[PRO]_CHA_03_SEC_03_Advanced_Transformation_002_Create_Schedule_Dimension_Table.pbix
+Power BI course learning/\[065]\[PRO]_CHA_03_SEC_03_Advanced_Transformation_003_Create_Skill_Dimension_Table.pbix
+Power BI course learning/\[066]\[PRO]_CHA_03_SEC_03_Advanced_Transformation_004_Top_10_Skills_By_Job_Type.pbix
+Power BI course learning/\[067]\[LEC]_CHA_03_SEC_04_Append_VS_Merge_001_Append_VS_Merge.pbix
+Power BI course learning/\[068]\[PRO]_CHA_03_SEC_04_Append_VS_Merge_001_Append_Fortune_500_Company_Queries.pbix
+Power BI course learning/\[069]\[PRO]_CHA_03_SEC_04_Append_VS_Merge_002_Visualize_Top_3_Companies_In_Revenue.pbix
+Power BI course learning/\[071]\[PRO]_CHA_03_SEC_04_Append_VS_Merge_004_Group_By_For_Top_Skill_By_Job_Type_Viz.pbix
+Power BI course learning/\[072]\[LEC]_CHA_03_SEC_05_M_Language_001_M_Language.pbix
+Power BI course learning/\[073]\[PRO]_CHA_03_SEC_05_M_Language_001_Copy_And_Paste_M_Language_Query.pbix
+Power BI course learning/\[070]\[PRO]_CHA_03_SEC_04_Append_VS_Merge_003_Merge_Fact_And_Dimensional_Tables.pbix
+Power BI course learning/\[074]\[PRO]_CHA_03_SEC_05_M_Language_002_Grouping_By_Salary_Range_Column_From_Example.pbix
+Power BI course learning/\[075]\[PRO]_CHA_03_SEC_05_M_Language_003_Grouping_By_Salary_Range_Conditional_Column.pbix
+Power BI course learning/\[076]\[PRO]_CHA_03_SEC_05_M_Language_004_Grouping_By_Salary_Range_Custom Column.pbix
+Power BI course learning/\[077]\[LEC]_CHA_04_SEC_01_DAX_001_DAX_Intro.pbix
+Power BI course learning/\[078]\[PRO]_CHA_04_SEC_01_DAX_001_Unique_Job_Countries_Table.pbix
+Power BI course learning/\[080]\[PRO]_CHA_04_SEC_01_DAX_003_Create_Salary_Measure.pbix
+Power BI course learning/\[079]\[PRO]_CHA_04_SEC_01_DAX_002_Categorize_Job_With_IF.pbix
+Power BI course learning/\[081]\[PRO]_CHA_04_SEC_01_DAX_004_Create_Date_Table.pbix
