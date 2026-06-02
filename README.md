@@ -42,13 +42,13 @@ To accomplish this project. I am equipped with powerful several key tools ;
 
 ## Planning
 ### Page 1 : Data Job Dashboard
-![alt text](Resource/1_Dashboard_Planning_1.png)
+![alt text](Power_BI_Project_1_Dashboard_For_Global_Data_Job/Resource/1_Dashboard_Planning_1.png)
 Below is how the first page of my dashboard is going to look like that name **"Data job dashboard"**. this first page of dashboard shows the bird-eyed view of the data job market including KPIs card of job count, median yearly salary, and median hourly salary
 
 This first page also include the visual the trend of the job posting, comparison between hour salary and yearly salary, which job are the most popular among data job, and finally the job state.
 
 ### Page 2 : Job Title Drill Through
-![alt text](Resource/2_Dashboard_Planning_2.png)
+![alt text](Power_BI_Project_1_Dashboard_For_Global_Data_Job/Resource/2_Dashboard_Planning_2.png)
 Below is the second page of my dashboard named **"Job title drill through"** showing the specific information regarding user selection from the first page of the dashboard.
 
 This second page is designed to dive deep into the specific information about those drilled-through job title selection providing the trend work form home status, no-degree-mentioned job, and health insurance policy. This page also consist of specific job location, job posting platform, and job schedule type (Full-time, Part-time, Contrator, etc.)
@@ -56,12 +56,11 @@ This second page is designed to dive deep into the specific information about th
 ## Designing
 
 ### Page 1 : Data Job Dashboard
-![alt text](Resource/3_Dashboard_1st_page.png)
-
+![alt text](Power_BI_Project_1_Dashboard_For_Global_Data_Job/Resource/3_Dashboard_1st_page.png)
 This is overall view for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give mea quick understanding of what's happening in the job market at a glance.
 
 ### Page 2 : Job Title Drill Through
-![alt text](Resource/4_Dashboard_2nd_page.png)
+![alt text](Power_BI_Project_1_Dashboard_For_Global_Data_Job/Resource/4_Dashboard_2nd_page.png)
 This is detailed-information page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
 # What I Learned
