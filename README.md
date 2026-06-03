@@ -36,22 +36,31 @@ To accomplish this project. I am equipped with powerful several key tools ;
 - **Visual Studio Code** : My file management tool for version control and sharing the project file to Github .
 - **Git & GitHub** : Essential for version control and sharing my project file including Power BI file, ensuring collaboration and project tracking.
 
+# ERD of the tables
+![alt text](Power_BI_Project_1_Dashboard_For_Global_Data_Job/Resource/5_Star_schema_ERD.png)
+*Graphic of Entity relatationship diagram (ERD) in the star schema format.*
+
+![alt text](Power_BI_Project_1_Dashboard_For_Global_Data_Job/Resource/6_Star_schema_in_Power_BI.png)
+*Entity relatationship diagram (ERD) in Model view in Power BI in the star schema format.*
+
 # Dashboard layout
 
 *This report is split into two distinct pages to provide both a bird-eyed perspective and detailed information regarding user selection.*
 
 ## Planning
 ### Page 1 : Data Job Dashboard
-![alt text](Power_BI_Project_1_Dashboard_For_Global_Data_Job/Resource/1_Dashboard_Planning_1.png)
 Below is how the first page of my dashboard is going to look like that name **"Data job dashboard"**. this first page of dashboard shows the bird-eyed view of the data job market including KPIs card of job count, median yearly salary, and median hourly salary
 
 This first page also include the visual the trend of the job posting, comparison between hour salary and yearly salary, which job are the most popular among data job, and finally the job state.
 
+![alt text](Power_BI_Project_1_Dashboard_For_Global_Data_Job/Resource/1_Dashboard_Planning_1.png)
+
 ### Page 2 : Job Title Drill Through
-![alt text](Power_BI_Project_1_Dashboard_For_Global_Data_Job/Resource/2_Dashboard_Planning_2.png)
 Below is the second page of my dashboard named **"Job title drill through"** showing the specific information regarding user selection from the first page of the dashboard.
 
 This second page is designed to dive deep into the specific information about those drilled-through job title selection providing the trend work form home status, no-degree-mentioned job, and health insurance policy. This page also consist of specific job location, job posting platform, and job schedule type (Full-time, Part-time, Contrator, etc.)
+
+![alt text](Power_BI_Project_1_Dashboard_For_Global_Data_Job/Resource/2_Dashboard_Planning_2.png)
 
 ## Designing
 
@@ -68,7 +77,8 @@ This project was a journey to showcase key Power BI skills, including :
 
 - **Data Transformation (Power Query)** : Cleaned and prepared raw data for analysis.
 - **Measures & KPIs** : Created metrics such as Median Yearly Salary and Job Count.
-- **Data Visualization**: Built column, bar, line, area, map, card, and table visuals.
+- **Implicit measure** : Designated the implicit mesure so that the user are able to understand the components in the visual
+- **Data Visualization** : Built column, bar, line, area, map, card, and table visuals.
 - **Dashboard Design** : Developed an intuitive and visually appealing dashboard layout.
 - **Interactive Reporting** : Implemented slicers, bookmarks, buttons, and drill-through navigation for enhanced user experience.
 
@@ -89,8 +99,8 @@ This interactive Power BI dashboard analyzes job posting data to uncover trends 
 
 ## Final Takeaway
 
-- This project demonstrates how Power BI can transform raw job market data into meaningful insights through data cleaning, modeling, visualization, and interactive reporting.
-- By analyzing job demand, salaries, and required skills, the dashboard helps users make more informed career decisions while showcasing the power of data-driven storytelling. Throughout this project, I strengthened my skills in Power Query, DAX measures, dashboard design, and interactive report development.
+This project demonstrates how Power BI can transform raw job market data into meaningful insights through data cleaning, modeling, visualization, and interactive reporting.
+By analyzing job demand, salaries, and required skills, the dashboard helps users make more informed career decisions while showcasing the power of data-driven storytelling. Throughout this project, I strengthened my skills in Power Query, DAX measures, dashboard design, and interactive report development.
 
 ## Closing Thoughts
-- Building this dashboard allowed me to apply the complete Power BI workflow, from data preparation and modeling to visualization and interactive reporting. Beyond the technical skills gained, the project reinforced the value of data storytelling—transforming complex information into insights that support better decision-making. It represents an important milestone in my transition toward a Data Analyst role and reflects my commitment to continuous learning and improvement.
+Building this dashboard allowed me to apply the complete Power BI workflow, from data preparation and modeling to visualization and interactive reporting. Beyond the technical skills gained, the project reinforced the value of data storytelling—transforming complex information into insights that support better decision-making. It represents an important milestone in my transition toward a Data Analyst role and reflects my commitment to continuous learning and improvement.
